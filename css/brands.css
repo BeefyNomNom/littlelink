@@ -200,6 +200,11 @@
 	--button-background:#000000;
 	--button-border:1px solid #FFFFFF;
 }
+.button-myanimelist {
+	--button-text:#FFFFFF;
+	--button-background:#2E51A2;
+	--button-border:1px solid #2E51A2;
+}
 
 /* Fiverr */
 .button-fiverr {
