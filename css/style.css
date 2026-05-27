@@ -218,6 +218,11 @@ a:hover {
 	flex-shrink:0;
 }
 
+.button-myanimelist .icon {
+	width:24px;
+	height:24px;
+}
+
 /* Avatar
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .avatar {
